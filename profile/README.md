@@ -1,4 +1,4 @@
-<img src="./assets/banner.png"/>
+<img src="https://github.com/111418/.github/blob/master/profile/assets/banner.png?raw=true"/>
 
 # `WE ARE 111418`
 `🗨️` Join us on [`Discord`](https://discord.111418.stream)
