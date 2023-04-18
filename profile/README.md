@@ -1,3 +1,5 @@
+<img src="./assets/banner.png"/>
+
 # `WE ARE 111418`
 `🗨️` Join us on [`Discord`](https://discord.111418.stream)
 
